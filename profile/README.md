@@ -4,6 +4,6 @@
 
 Here we maintain production-grade libraries and developer tools to make building on HyperEVM seamless and secure.
 
-Get started building: [`hyper-evm-lib`](https://github.com/hyperliquid-dev/hyper-evm-lib)
+Get started building with [`hyper-evm-lib`](https://github.com/hyperliquid-dev/hyper-evm-lib), which abstracts away the complexity of HyperEVM<->Core interactions, enabling developers to ship faster and more securely.
 
 <br clear="left"/>
